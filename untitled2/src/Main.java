@@ -30,7 +30,7 @@
                 }
             }
 
-            private static final List<String> NAMES = Arrays.asList("Alice", "Glory", "Charlie", "Diana", "Edward", "Fiona", "Felix", "Hannah", "Ivan", "Julia");
+            private static final List<String> NAMES = Arrays.asList("Alice", "Viacheslav", "Charlie", "Diana", "Edward", "Fiona", "Felix", "Khanuma", "Ivan", "Victoria");
             private static final List<String> COMPANYES = Arrays.asList("TechCorp", "InnovateLLC", "SoftSystems", "GlobalTech", "DataSolutions", "AIWorks", "NetDynamics");
 
             public static List<Employee> generateRandomEmployees(int count) {
